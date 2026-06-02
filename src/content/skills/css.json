@@ -1,0 +1,12 @@
+{
+  "name": "CSS",
+  "description": "Technology to Style and give life to the web site.",
+  "icon": "picon:css",
+  "category": "frontend",
+  "level": "expert",
+  "experience": {
+    "years": 6,
+    "months": 4
+  },
+  "color": "#6495ED"
+}
