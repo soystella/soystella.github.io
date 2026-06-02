@@ -1,0 +1,12 @@
+{
+  "name": "JavaScript",
+  "description": "Language to manipulate web DOM\nAlso used in server-side thanks to NodeJS or Bun (I dont like Deno runtime)",
+  "icon": "ri:javascript-fill",
+  "category": "frontend",
+  "level": "expert",
+  "experience": {
+    "years": 5,
+    "months": 4
+  },
+  "color": "#FFFF00"
+}
