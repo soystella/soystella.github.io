@@ -34,16 +34,8 @@ function detectPlatform() {
 
 // Get Pagefind output directory
 function getPagefindOutputDir(platform) {
-    const outputDirs = {
-        default: 'dist',
-        github: 'dist',
-        cloudflare: 'dist',
-        netlify: 'dist',
-        edgeone: 'dist',
-        vercel: '.vercel/output/static',
-    };
-
-    return outputDirs[platform] || 'dist';
+    // Always output to dist, regardless of platform
+    return 'dist/client';
 }
 
 // Main function

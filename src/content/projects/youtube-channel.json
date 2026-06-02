@@ -3,6 +3,7 @@
   "description": "My personal youtube channel",
   "image": "/src/content/projects/DarkerBackground.png",
   "category": "website",
+  "techStack": [],
   "status": "in-progress",
   "liveDemo": "https://www.youtube.com/@StellaAkira",
   "startDate": "2025-08-10",

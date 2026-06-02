@@ -15,24 +15,15 @@ category: Secrets
 A password is required for this post
 
 
-## Frontmatter Example
-
-```yaml
----
-title: Secret projects
-published: 2016-01-25
-encrypted: true
-password: "676767"
-...
----
-```
-
-- `encrypted` - Whether encryption is enabled for the post.
-- `password` - The password required to unlock the content.
-
-
+## Social media
+Using:
+- serverless functions
+- apps scripts
+And as storage:
+- Supabase
+- Google drive
 ## Note
 
 :::warning
-Do not use this for extremely sensitive information like bank passwords or private keys. The encryption happens on the client side, and the password itself is stored in the post's metadata (though usually not displayed directly).
+Setting strict limits and making re-render for pictures and videos so we will save up space.
 :::
