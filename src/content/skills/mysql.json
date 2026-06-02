@@ -1,0 +1,12 @@
+{
+  "name": "MySQL",
+  "description": "Standard Database.",
+  "icon": "lineicons:mysql",
+  "category": "database",
+  "level": "beginner",
+  "experience": {
+    "years": 0,
+    "months": 6
+  },
+  "color": "#ffffff"
+}
