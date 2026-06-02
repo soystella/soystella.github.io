@@ -1,0 +1,15 @@
+{
+  "name": "Neutralino",
+  "description": "A powerfull light weight Desktop App development framework.",
+  "icon": "simple-icons:neutralinojs",
+  "category": "frontend",
+  "level": "expert",
+  "experience": {
+    "years": 0,
+    "months": 5
+  },
+  "projects": [
+    "Project manager",
+    "Xbox client"
+  ]
+}
