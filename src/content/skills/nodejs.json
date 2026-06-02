@@ -7,5 +7,9 @@
   "experience": {
     "years": 3,
     "months": 2
-  }
+  },
+  "projects": [
+    "CallBack - the discord bot",
+    "Basic Rest API"
+  ]
 }
