@@ -1,0 +1,18 @@
+{
+  "title": "Farl - Simulate typing message",
+  "description": "I made this webpage literally to embed animated text being typed in real time into presentations of power point.",
+  "category": "software",
+  "techStack": [
+    "HTML",
+    "CSS",
+    "JS"
+  ],
+  "status": "completed",
+  "liveDemo": "https://farl-1124d.web.app/",
+  "startDate": "2024-03-15",
+  "endDate": "2024-06-15",
+  "featured": false,
+  "tags": [
+    "Project"
+  ]
+}
