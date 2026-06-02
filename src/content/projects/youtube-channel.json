@@ -1,6 +1,7 @@
 {
   "title": "Youtube Channel",
   "description": "My personal youtube channel",
+  "image": "/src/content/projects/DarkerBackground.png",
   "category": "website",
   "status": "in-progress",
   "liveDemo": "https://www.youtube.com/@StellaAkira",
