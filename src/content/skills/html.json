@@ -1,0 +1,12 @@
+{
+  "name": "HTML",
+  "description": "Language to create the web structure.",
+  "icon": "codex:html",
+  "category": "frontend",
+  "level": "expert",
+  "experience": {
+    "years": 6,
+    "months": 2
+  },
+  "color": "#ff7755"
+}
