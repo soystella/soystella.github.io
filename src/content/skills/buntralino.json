@@ -1,0 +1,14 @@
+{
+  "name": "Buntralino",
+  "description": "A powerfull Desktop App framework based on Neutralino which allows backend.",
+  "icon": "mdi:bunny",
+  "category": "backend",
+  "level": "expert",
+  "experience": {
+    "years": 0,
+    "months": 5
+  },
+  "projects": [
+    "A powerfull database API connections  interface."
+  ]
+}
