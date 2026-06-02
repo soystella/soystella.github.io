@@ -1,15 +1,16 @@
 {
-    "name": "Astro",
-    "description": "A modern static site generator supporting multi-framework integration.",
-    "icon": "logos:astro-icon",
-    "category": "frontend",
-    "level": "beginner",
-    "experience": {
-        "years": 0,
-        "months": 3
-    },
-    "projects": [
-        "Twilight"
-    ],
-    "color": "#BC52EE"
+  "name": "Astro",
+  "description": "A modern static site generator supporting multi-framework integration.",
+  "icon": "logos:astro-icon",
+  "category": "frontend",
+  "level": "intermediate",
+  "experience": {
+    "years": 1,
+    "months": 3
+  },
+  "projects": [
+    "Stella CMS - Twilight Stella's version",
+    "Karawan - image Gallery"
+  ],
+  "color": "#BC52EE"
 }
