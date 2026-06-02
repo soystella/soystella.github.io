@@ -2,6 +2,7 @@
   "title": "First Portfolio",
   "description": "Implemented basic HTML, CSS, JS technologies.",
   "image": "/src/content/projects/Screenshot_98.png",
+  "category": "website",
   "techStack": [
     "HTML",
     "CSS",
