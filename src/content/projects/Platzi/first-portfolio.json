@@ -1,0 +1,14 @@
+{
+  "title": "First Portfolio",
+  "description": "Implemented basic HTML, CSS, JS technologies.",
+  "image": "/src/content/projects/Screenshot_98.png",
+  "techStack": [
+    "HTML",
+    "CSS",
+    "JS",
+    "Firebase"
+  ],
+  "startDate": "2026-06-02",
+  "endDate": "2026-06-02",
+  "featured": false
+}
