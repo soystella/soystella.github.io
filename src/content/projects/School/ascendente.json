@@ -1,0 +1,17 @@
+{
+  "title": "Ascendente",
+  "description": "Basic web page",
+  "category": "website",
+  "techStack": [
+    "HTML",
+    "CSS"
+  ],
+  "status": "completed",
+  "liveDemo": "https://sites.google.com/view/tejiendo-hilos-digitales/inicio",
+  "startDate": "2024-01-05",
+  "endDate": "2024-02-20",
+  "featured": false,
+  "tags": [
+    "Project"
+  ]
+}
