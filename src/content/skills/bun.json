@@ -9,6 +9,7 @@
     "months": 3
   },
   "projects": [
-    "API server"
+    "API server",
+    "Multiple DataBase connection API server"
   ]
 }
