@@ -1,0 +1,11 @@
+{
+  "name": "NodeJS",
+  "description": "The standard JavaScript server-side runtime.",
+  "icon": "akar-icons:node-fill",
+  "category": "backend",
+  "level": "advanced",
+  "experience": {
+    "years": 3,
+    "months": 2
+  }
+}
