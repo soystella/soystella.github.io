@@ -1,0 +1,14 @@
+{
+  "name": "Bun",
+  "description": "The fastest javascript server-side runtime.",
+  "icon": "material-icon-theme:bun",
+  "category": "backend",
+  "level": "advanced",
+  "experience": {
+    "years": 1,
+    "months": 3
+  },
+  "projects": [
+    "API server"
+  ]
+}
