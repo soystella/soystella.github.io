@@ -1,0 +1,15 @@
+{
+  "name": "React",
+  "description": "A powerfull real time UI designer for front-end.",
+  "icon": "logos:react-icon",
+  "category": "frontend",
+  "level": "intermediate",
+  "experience": {
+    "years": 1,
+    "months": 0
+  },
+  "projects": [
+    "Template store"
+  ],
+  "color": "#4455ff"
+}
