@@ -1,29 +1,33 @@
 {
-    "title": "Album Example",
-    "description": "This is an example album.",
-    "cover": "https://picsum.photos/800/600?random=1",
-    "date": "2025-01-01T00:00:00.000Z",
-    "location": "Unknown",
-    "tags": ["Stella", "Projects", "Social", "Misc"],
-    "layout": "masonry",
-    "columns": 3,
-    "photos": [
-        {
-            "src": "./智子_ASK.jpg",
-            "alt": "智子",
-            "title": "智子 by ASK",
-            "description": "This is a beautiful image from local file",
-            "tags": ["human"]
-        },
-        {
-            "src": "https://picsum.photos/800/600?random=2",
-            "alt": "random image",
-            "title": "Random Image",
-            "description": "This is a beautiful image from external link",
-            "tags": [
-                "scenary"
-            ]
-        }
-    ],
-    "visible": true
+  "title": "Album Example",
+  "description": "This is an example album.",
+  "cover": "/assets/images/fcbanner.webp",
+  "date": "2026-06-02",
+  "location": "Unknown",
+  "tags": [
+    "Stella",
+    "Projects",
+    "Social",
+    "Misc"
+  ],
+  "layout": "masonry",
+  "columns": 3,
+  "photos": [
+    {
+      "src": "/src/content/albums/DarkerBackground.png",
+      "title": "Stella prime",
+      "description": "This is a picture of stella in his prime (phisically cuz mentally im about to explode)",
+      "tags": [
+        "Stella"
+      ],
+      "date": "2024-10-02"
+    },
+    {
+      "src": "/src/content/albums/stella y candela.webp",
+      "title": "Candela the kitty",
+      "description": "I miss her",
+      "date": "2025-01-20"
+    }
+  ],
+  "visible": true
 }
