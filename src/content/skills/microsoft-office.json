@@ -1,0 +1,11 @@
+{
+  "name": "Microsoft Office",
+  "description": "I can manage all the following softwares perfectly and their Google versions:\n- Word\n- Excel\n- Power Point\n- Access",
+  "icon": "mdi:microsoft",
+  "category": "tools",
+  "level": "expert",
+  "experience": {
+    "years": 2,
+    "months": 7
+  }
+}
