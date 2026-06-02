@@ -1,28 +1,28 @@
 ---
-title: Encryption Example
-published: 2020-02-02
-description: 'Password: 123456'
+title: Secret projects
+published: 2016-01-25
+description: 'A list of projects coming up, text the owner to get access'
 encrypted: true
 pinned: false
-password: "123456"
+password: "676767"
 tags: [Encryption]
-category: Examples
+category: Secrets
 ---
 
 
 # Password Protected Post
 
-This is an example of a password-protected post in the Twilight theme. The content below is encrypted using AES and can only be viewed by entering the correct password.
+A password is required for this post
 
 
 ## Frontmatter Example
 
 ```yaml
 ---
-title: Encryption Example
-published: 2020-02-02
+title: Secret projects
+published: 2016-01-25
 encrypted: true
-password: "your-password"
+password: "676767"
 ...
 ---
 ```

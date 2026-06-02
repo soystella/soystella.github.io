@@ -81,7 +81,7 @@ button.bg-\(--primary\) {
 }
 
 .music-player {
-    max-width: 320px;
+    max-width: 600px;
     user-select: none;
 }
 .expanded-player {
