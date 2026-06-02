@@ -1,0 +1,17 @@
+{
+  "title": "Karawan - Wordpress Web Design",
+  "description": "I worked previously on the webpage.",
+  "category": "website",
+  "techStack": [
+    "Wordpress",
+    "CSS"
+  ],
+  "status": "completed",
+  "liveDemo": "https://www.karawan.es/",
+  "startDate": "2024-06-10",
+  "endDate": "2025-07-01",
+  "featured": false,
+  "tags": [
+    "Project"
+  ]
+}
