@@ -1,0 +1,19 @@
+{
+  "title": "LauzVT - VTuber Portfolio",
+  "description": "Portfolio for a friend.",
+  "category": "website",
+  "techStack": [
+    "HTML",
+    "CSS",
+    "JS",
+    "Firebase"
+  ],
+  "status": "completed",
+  "liveDemo": "https://lauzvt.web.app/",
+  "startDate": "2025-04-02",
+  "endDate": "2025-02-09",
+  "featured": false,
+  "tags": [
+    "Project"
+  ]
+}
