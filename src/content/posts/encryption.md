@@ -1,27 +1,27 @@
 ---
 title: Secret projects
 published: 2016-01-25
-description: 'A list of projects coming up, text the owner to get access'
-encrypted: true
-pinned: false
-password: "676767"
-tags: [Encryption]
-category: Secrets
+updated: 2026-06-06
+description: A list of projects coming up, text the owner to get access
+cover: /src/content/posts/guide/purple-sunset-mountains-stockcake.jpg
+tags:
+  - Encryption
+draft: false
 ---
-
-
 # Password Protected Post
 
 A password is required for this post
 
-
 ## Social media
+
 Using:
+
 - serverless functions
 - apps scripts
 And as storage:
 - Supabase
 - Google drive
+
 ## Note
 
 :::warning
