@@ -226,5 +226,5 @@ content:
     path: src/content/about.md
     fields:
       #- { name: title, label: Title, type: string, required: false }
-      #- { name: description, label: Description, type: string, required: false }
-      - { name: body, label: Body, type: rich-text }
+      - { name: description, label: Description, type: string, required: false }
+      #- { name: body, label: Body, type: rich-text }
