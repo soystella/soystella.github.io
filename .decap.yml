@@ -3,8 +3,8 @@ backend:
     name: github
     repo: soystella/stella # 请替换为您的 GitHub 仓库
     branch: main # 请替换为您的分支名称
-    site_domain: soystella.netlify.app # 请替换为您的域名
-    base_url: https://soystella.netlify.app  # 请替换为您的 URL
+    site_domain: soystella.com # 请替换为您的域名
+    base_url: https://soystella.com  # 请替换为您的 URL
     auth_endpoint: oauth # OAuth 路由由集成提供
 
 
