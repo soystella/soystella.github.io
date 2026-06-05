@@ -1,6 +1,6 @@
 ---
 title: Youtube -
-published: 2021-12-02
+published: 2023-06-27
 updated: 2026-06-06
 cover: /src/content/posts/guide/thumb-1920-1061712.jpg
 tags:
