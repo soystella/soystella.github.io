@@ -1,0 +1,39 @@
+[debug] [2026-06-05T22:42:08.732Z] ----------------------------------------------------------------------
+[debug] [2026-06-05T22:42:08.736Z] Command:       C:\nvm4w\nodejs\node.exe C:\Users\PC\AppData\Local\pnpm\global\v11\2e80-19e88904188\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2026-06-05T22:42:08.737Z] CLI Version:   15.19.0
+[debug] [2026-06-05T22:42:08.737Z] Platform:      win32
+[debug] [2026-06-05T22:42:08.737Z] Node Version:  v26.2.0
+[debug] [2026-06-05T22:42:08.737Z] Time:          Sat Jun 06 2026 00:42:08 GMT+0200 (hora de verano de Europa central)
+[debug] [2026-06-05T22:42:08.738Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\PC\Desktop\Astro\soystella.github.io
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] 
+[debug] [2026-06-05T22:42:14.939Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-06-05T22:42:14.939Z] > authorizing via signed-in user (soyakirafuwa@gmail.com)
+[debug] [2026-06-05T22:42:14.941Z] Checked if tokens are valid: true, expires at: 1780702403041
+[debug] [2026-06-05T22:42:14.942Z] Checked if tokens are valid: true, expires at: 1780702403041
+[debug] [2026-06-05T22:42:14.943Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/stella-akira [none]
+[debug] [2026-06-05T22:42:15.287Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/stella-akira 200
+[debug] [2026-06-05T22:42:15.288Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/stella-akira {"projectId":"stella-akira","projectNumber":"550538477171","displayName":"stella akira","name":"projects/stella-akira","resources":{"hostingSite":"stella-akira"},"state":"ACTIVE","etag":"1_5cb75509-bf7b-49c7-a1ea-1d446e6efcfa"}
+[info] i  Using project stella-akira (stella akira) . 
+[info] 
+=== Hosting Setup
