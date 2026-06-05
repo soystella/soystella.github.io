@@ -1,31 +1,33 @@
 ---
-title: About
 ---
+# About Me | Stella Akira
 
-# Sobre Mí | Stella Akira
+## 🚀 Creating web experiences from backend to pixel.
 
-## 🚀 Creando experiencias web desde el backend hasta el pixel.
-
-Soy **Stella Akira**, desarrolladora FullStack y apasionada de WordPress. Transformo ideas en aplicaciones web sólidas, optimizadas y listas para escalar. Si buscas código limpio y soluciones digitales eficientes, estás en el lugar correcto.
-
----
-
-### 🛠️ Stack Tecnológico & Habilidades
-
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+), Diseño Responsivo e Interfaces Intuitivas.
-* **Backend & CMS:** Node.js / PHP, WordPress (Desarrollo, personalización de temas/plugins y optimización de rendimiento).
-* **Herramientas & Despliegue:** Git, GitHub, Firebase Hosting (`stella-akira.web.app`).
-
-### 🤝 ¿Cómo podemos trabajar juntos?
-
-* **Desarrollo Extremo a Extremo:** Creación de aplicaciones web completas y funcionales.
-* **Sitios Corporativos y E-commerce:** Soluciones robustas y autogestionables en WordPress.
-* **Optimización de Código:** Migración, limpieza de código y mejora en los tiempos de carga.
+I'm **Stella Akira**, a Full Stack developer and WordPress enthusiast. I transform ideas into robust, optimized, and scalable web applications. If you're looking for clean code and efficient digital solutions, you've come to the right place.
 
 ---
 
-### 📩 ¡Hablemos de tu próximo proyecto!
+### 🛠️ Technology Stack & Skills
 
-* 🌐 **Portafolio Web:** [stella-akira.web.app](https://stella-akira.web.app)
-* 💼 **Malt / LinkedIn:** [Tu Enlace Aquí]
-* 📧 **Email:** [Tu Correo de Contacto Aquí]
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Responsive Design, and Intuitive Interfaces.
+
+- **Backend & CMS:** Node.js / PHP, WordPress (Development, theme/plugin customization, and performance optimization).
+
+- **Tools & Deployment:** Git, GitHub, Firebase Hosting (`stella-akira.web.app`).
+
+### 🤝 How can we work together?
+
+- **End-to-End Development:** Creation of complete and functional web applications.
+
+- **Corporate Websites and E-commerce:** Robust and self-manageable WordPress solutions.
+
+- **Code Optimization:** Migration, code cleanup, and improved loading times.
+
+---
+
+### 📩 Let's talk about your next project!
+
+- 🌐 **Web Portfolio:** [stella-akira.web.app](https://stella-akira.web.app)
+- 💼 **Malt / LinkedIn:** [Your Link Here]
+- 📧 **Email:** [Your Contact Email Here]
