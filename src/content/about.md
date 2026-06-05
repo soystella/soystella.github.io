@@ -28,6 +28,5 @@ I'm **Stella Akira**, a Full Stack developer and WordPress enthusiast. I transfo
 
 ### 📩 Let's talk about your next project!
 
-- 🌐 **Web Portfolio:** [stella-akira.web.app](https://stella-akira.web.app)
-- 💼 **Malt / LinkedIn:** [Your Link Here]
-- 📧 **Email:** [Your Contact Email Here]
+- 🌐 **Web Portfolio:** [stella-akira.web.app](https://soystella.com)
+- 📧 **Email:** stella@soystella.com
