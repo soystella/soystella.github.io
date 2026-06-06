@@ -14,7 +14,7 @@
   "columns": 3,
   "photos": [
     {
-      "src": "/src/content/albums/DarkerBackground.png",
+      "src": "DarkerBackground.png",
       "title": "Stella prime",
       "description": "This is a picture of stella in his prime (phisically cuz mentally im about to explode)",
       "tags": [
@@ -23,13 +23,13 @@
       "date": "2024-10-02"
     },
     {
-      "src": "/src/content/albums/stella y candela.webp",
+      "src": "stella y candela.webp",
       "title": "Candela the kitty",
       "description": "I miss her",
       "date": "2025-01-20"
     },
     {
-      "src": "/src/content/albums/nfsmwophoto1.png",
+      "src": "nfsmwophoto1.png",
       "title": "I love need for speed",
       "description": "actually...",
       "date": "2026-06-02"
