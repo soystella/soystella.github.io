@@ -1,11 +1,11 @@
 ---
-title: Secret projects
-published: 2016-01-25
+title: Resource for learning
+published: 2024-11-25
 updated: 2026-06-06
 description: A list of projects coming up, text the owner to get access
 cover: purple-sunset-mountains-stockcake.jpg
 encrypted: true
-password: "31388468"
+password: "2132141"
 tags:
   - Encryption
 draft: false
