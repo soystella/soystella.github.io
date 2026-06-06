@@ -1,0 +1,17 @@
+{
+  "title": "Mermaid Example",
+  "description": "A simple example of a Markdown blog post with Mermaid.",
+  "type": "project",
+  "endDate": "",
+  "achievements": [
+    "Task completed"
+  ],
+  "links": [
+    {
+      "name": "Live Demo",
+      "type": "project"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#7C3AED"
+}

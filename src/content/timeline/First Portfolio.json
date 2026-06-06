@@ -1,0 +1,23 @@
+{
+  "title": "First Portfolio",
+  "description": "Implemented basic HTML, CSS, JS technologies.",
+  "type": "project",
+  "endDate": "",
+  "skills": [
+    "Stella",
+    "Project"
+  ],
+  "achievements": [
+    "Task completed"
+  ],
+  "links": [
+    {
+      "name": "Post",
+      "url": "projects/Platzi/",
+      "type": "post"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#ed903a",
+  "featured": false
+}

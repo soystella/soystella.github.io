@@ -1,0 +1,22 @@
+{
+  "title": "J2RElectric - presentacion autonomo electricista",
+  "description": "I developed the website for the self-employed J2RElectric and I currently manage their networks.",
+  "type": "project",
+  "endDate": "",
+  "skills": [
+    "Project"
+  ],
+  "achievements": [
+    "Task completed"
+  ],
+  "links": [
+    {
+      "name": "Post",
+      "url": "projects/Particular/",
+      "type": "post"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#ed903a",
+  "featured": false
+}

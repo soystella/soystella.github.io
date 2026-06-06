@@ -1,0 +1,22 @@
+{
+  "title": "Karawan - Wordpress Web Design",
+  "description": "I worked previously on the webpage.",
+  "type": "project",
+  "endDate": "",
+  "skills": [
+    "Project"
+  ],
+  "achievements": [
+    "Task completed"
+  ],
+  "links": [
+    {
+      "name": "Post",
+      "url": "projects/Particular/",
+      "type": "post"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#ed903a",
+  "featured": false
+}

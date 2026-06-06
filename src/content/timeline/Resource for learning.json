@@ -1,0 +1,17 @@
+{
+  "title": "Resource for learning",
+  "description": "A list of projects coming up, text the owner to get access",
+  "type": "project",
+  "endDate": "",
+  "achievements": [
+    "Task completed"
+  ],
+  "links": [
+    {
+      "name": "Live Demo",
+      "type": "project"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#7C3AED"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Twilight Blog Template",
+  "description": "A CMS integrated blog theme built with Astro framework.",
+  "type": "project",
+  "endDate": "",
+  "skills": [
+    "Personal Project",
+    "Open Source Project"
+  ],
+  "achievements": [
+    "Task completed"
+  ],
+  "links": [
+    {
+      "name": "Post",
+      "url": "projects/Twilight/",
+      "type": "post"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#ed903a",
+  "featured": true
+}

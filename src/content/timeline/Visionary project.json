@@ -1,0 +1,17 @@
+{
+  "title": "Visionary project",
+  "type": "project",
+  "endDate": "",
+  "achievements": [
+    "Task completed"
+  ],
+  "links": [
+    {
+      "name": "Post",
+      "url": "friends/",
+      "type": "post"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#ed903a"
+}

@@ -4,21 +4,12 @@
     "type": "project",
     "startDate": "2025-10-01",
     "endDate": "",
-    "skills": [
-        "Astro",
-        "Svelte",
-        "Tailwind CSS"
-    ],
+    "skills": [],
     "achievements": [],
     "links": [
         {
             "name": "Online Demo",
             "url": "https://twilight.spr-aachen.com",
-            "type": "project"
-        },
-        {
-            "name": "GitHub Repository",
-            "url": "https://github.com/Spr-Aachen/Twilight",
             "type": "project"
         }
     ],

@@ -1,0 +1,22 @@
+{
+  "title": "LauzVT - VTuber Portfolio",
+  "description": "Portfolio for a friend.",
+  "type": "project",
+  "endDate": "",
+  "skills": [
+    "Project"
+  ],
+  "achievements": [
+    "Task completed"
+  ],
+  "links": [
+    {
+      "name": "Post",
+      "url": "projects/Personal/",
+      "type": "post"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#ed903a",
+  "featured": false
+}

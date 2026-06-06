@@ -1,0 +1,22 @@
+{
+  "title": "Karawan - Warehouse manager software",
+  "description": "Created a software to manage the warehouse inventory.",
+  "type": "project",
+  "endDate": "",
+  "skills": [
+    "Project"
+  ],
+  "achievements": [
+    "Task completed"
+  ],
+  "links": [
+    {
+      "name": "Post",
+      "url": "projects/Particular/",
+      "type": "post"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#ed903a",
+  "featured": false
+}

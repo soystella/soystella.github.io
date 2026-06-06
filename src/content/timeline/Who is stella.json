@@ -1,0 +1,17 @@
+{
+  "title": "Who is stella",
+  "description": "Quick description",
+  "type": "project",
+  "endDate": "",
+  "achievements": [
+    "Task completed"
+  ],
+  "links": [
+    {
+      "name": "Live Demo",
+      "type": "project"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#7C3AED"
+}

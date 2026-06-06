@@ -1,0 +1,19 @@
+{
+  "title": "Youtube Channel",
+  "description": "My personal youtube channel",
+  "type": "project",
+  "endDate": "",
+  "achievements": [
+    "Task completed"
+  ],
+  "links": [
+    {
+      "name": "Post",
+      "url": "projects/",
+      "type": "post"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#ed903a",
+  "featured": false
+}

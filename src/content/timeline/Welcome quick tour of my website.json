@@ -1,0 +1,17 @@
+{
+  "title": "Welcome quick tour of my website",
+  "description": "Here you will find everything you need to know to explore all the data about me, in case you want to hire me or in case you want to collab with me.",
+  "type": "project",
+  "endDate": "",
+  "achievements": [
+    "Task completed"
+  ],
+  "links": [
+    {
+      "name": "Live Demo",
+      "type": "project"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#7C3AED"
+}

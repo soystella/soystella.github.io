@@ -1,0 +1,22 @@
+{
+  "title": "Farl - Simulate typing message",
+  "description": "I made this webpage literally to embed animated text being typed in real time into presentations of power point.",
+  "type": "project",
+  "endDate": "",
+  "skills": [
+    "Project"
+  ],
+  "achievements": [
+    "Task completed"
+  ],
+  "links": [
+    {
+      "name": "Post",
+      "url": "projects/Personal/",
+      "type": "post"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#ed903a",
+  "featured": false
+}

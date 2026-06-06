@@ -1,0 +1,24 @@
+{
+  "title": "Stella pictures",
+  "description": "I'll be back to my prime >:c",
+  "type": "project",
+  "endDate": "",
+  "skills": [
+    "Stella",
+    "Projects",
+    "Social",
+    "Misc"
+  ],
+  "achievements": [
+    "Task completed"
+  ],
+  "links": [
+    {
+      "name": "Post",
+      "url": "albums/",
+      "type": "post"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#ed903a"
+}
