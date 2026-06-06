@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "stella-akira"
-  }
+    "default": "stella-akira",
+    "soystella.com": "stella-akira"
+  },
+  "targets": {},
+  "etags": {}
 }

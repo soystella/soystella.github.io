@@ -14,7 +14,7 @@ I'm **Stella Akira**, a Full Stack developer and WordPress enthusiast. I transfo
 
 - **Backend & CMS:** Node.js / PHP, WordPress (Development, theme/plugin customization, and performance optimization).
 
-- **Tools & Deployment:** Git, GitHub, Firebase Hosting (`stella-akira.web.app`).
+- **Tools & Deployment:** Git, GitHub, Firebase Hosting (`soystella.com`).
 
 ### 🤝 How can we work together?
 
@@ -28,5 +28,5 @@ I'm **Stella Akira**, a Full Stack developer and WordPress enthusiast. I transfo
 
 ### 📩 Let's talk about your next project!
 
-- 🌐 **Web Portfolio:** [stella-akira.web.app](https://soystella.com)
+- 🌐 **Web Portfolio:** [soystella.com](https://soystella.com)
 - 📧 **Email:** stella@soystella.com
