@@ -3,7 +3,8 @@ title: Secret projects
 published: 2016-01-25
 updated: 2026-06-06
 description: A list of projects coming up, text the owner to get access
-cover: /src/content/posts/guide/purple-sunset-mountains-stockcake.jpg
+cover: purple-sunset-mountains-stockcake.jpg
+password: 31388468
 tags:
   - Encryption
 draft: false
