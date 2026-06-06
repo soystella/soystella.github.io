@@ -12,7 +12,7 @@
 		"preview": "astro preview",
 		"astro": "astro",
 		"new-post": "node scripts/new-post.js",
-		"publish": "git add./**; $msg = Read-Host 'Commit message'; git commit -m $msg; git push; firebase deploy"
+		"publish": "firebase deploy"
 	},
 	"dependencies": {
 		"@astrojs/check": "^0.9.9",
