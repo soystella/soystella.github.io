@@ -11,8 +11,8 @@
   ],
   "links": [
     {
-      "name": "Post",
       "url": "projects/Personal/",
+      "name": "Post",
       "type": "post"
     }
   ],

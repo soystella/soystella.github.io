@@ -8,8 +8,8 @@
   ],
   "links": [
     {
-      "name": "Post",
       "url": "projects/",
+      "name": "Post",
       "type": "post"
     }
   ],
